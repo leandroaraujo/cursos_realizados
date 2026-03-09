@@ -1,2 +1,2 @@
-# cursos_realizados
+# Cursos Realizados
 Repositório com cursos realizados
