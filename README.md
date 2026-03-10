@@ -1,2 +1,6 @@
 # Cursos Realizados
-Repositório com cursos realizados
+Repositório certificados, badges e comprovações de cursos realizados
+
+
+
+- [Cursos Mobile](https://github.com/leandroaraujo/cursos_realizados/blob/main/mobile.md)
